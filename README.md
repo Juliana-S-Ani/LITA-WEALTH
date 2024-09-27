@@ -1,1 +1,1 @@
-# LITA-WEALTH
+# LITA- Class WEALTH
