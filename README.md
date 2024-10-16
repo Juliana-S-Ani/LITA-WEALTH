@@ -1,1 +1,1 @@
-# LITA- Class WEALTH
+# LITA- Class Training In Data Analysis 
